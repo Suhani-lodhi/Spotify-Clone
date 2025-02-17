@@ -20,7 +20,7 @@ CSS3: For styling and layout.
 
 # Screenshots
 
-(Add screenshots of your project here for better visualization)
+![Screenshot 2025-02-17 220518](https://github.com/user-attachments/assets/903b0670-93c5-4d96-8e96-98cd7abe4414)
 
 # Contribution
 
